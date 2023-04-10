@@ -9,8 +9,8 @@ NOTES:
 Defaults on initial load to London, Fridays, Afternoons
 WeatherAPI only allows 10 days of forecast data (my free trial key will expire soon as well)
 
+FURTHER IMPLEMENTATIONS:
 
-Further implementations:
 set up a database (DBeaver?)
 mutations and query instead of useStates to store and fetch from database
 auth -> validate against user and pass stored in database which reroutes to weather information based on stored settings of city, day, and time of day
