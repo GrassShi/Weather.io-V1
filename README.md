@@ -29,3 +29,5 @@ FURTHER IMPLEMENTATIONS:
 - Could make the UI more responsive to different large screen sizes (text overflow, better thumbnail design, etc)
 
 - Implement more custom line graph UI 
+
+- add all icons to the icon mapping enum (I have definitely missed a lot of the weather conditions I considered rare so those do not have icons and I do not like the WeatherAPI given icons)
