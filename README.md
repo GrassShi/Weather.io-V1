@@ -17,3 +17,6 @@ auth -> validate against user and pass stored in database which reroutes to weat
 use react-location-picker instead of text input to validate city (it had like a thousand dependencies that I could not force codesandbox free to accept for some reason)
 pagination or infinite scroll for case of a getting a lot of data
 help page route.push(/help) and copywriting 
+could get some enums going to clean up the code comparisons and filters
+Could make the UI more responsive to different large screen sizes (text overflow, better thumbnail design, etc)
+Implement more custom line graph UI 
